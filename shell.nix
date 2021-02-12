@@ -7,5 +7,6 @@ mkShell {
   # local environment.
   buildInputs = [
     nodejs
+    yarn
   ];
 }
