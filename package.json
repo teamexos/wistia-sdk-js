@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "org-17620718@github.com:teamexos/wistia-sdk-js.git",
   "author": "Michael Clifford <michael.clifford@teamexos.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.1.5"
+  }
 }
