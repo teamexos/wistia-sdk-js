@@ -1,0 +1,11 @@
+{
+  "name": "wistia-sdk-js",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "org-17620718@github.com:teamexos/wistia-sdk-js.git",
+  "author": "Michael Clifford <michael.clifford@teamexos.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.1.5"
+  }
+}
